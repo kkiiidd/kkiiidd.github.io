@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkshopping_hui"]=self["webpackChunkshopping_hui"]||[]).push([[950],{3950:function(u,n,r){r.r(n),r.d(n,{default:function(){return c}});var s=function(){var u=this,n=u._self._c;return n("div",{staticClass:"groupOrder"},[u._v("groupOrder")])},e=[],t={},i=t,l=r(1001),p=(0,l.Z)(i,s,e,!1,null,null,null),c=p.exports}}]);
